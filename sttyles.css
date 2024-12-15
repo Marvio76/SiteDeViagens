@@ -107,7 +107,7 @@ nav ul li a:hover {
     gap: 15px;
     padding: 10px;
 }
-@media (max-width: 507px){
+@media (max-width: 768px){
     .produtos {
         width: 90%;
         margin: auto;
@@ -124,7 +124,7 @@ nav ul li a:hover {
         border: 1px solid #333;
         padding: 8px 8px 7px 8px; 
         background-color:#0072a4;
-        width: 192px;
+        width: 190px;
     }
     .item img{
         width: 100%;
